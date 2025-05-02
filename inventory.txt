@@ -1,1 +1,2 @@
-name age gender experience date
+name   age gender experience  date
+zakria 26  MALE   2YEARS      MAY 02
